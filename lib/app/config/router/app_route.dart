@@ -46,9 +46,7 @@ final appRouter = GoRouter(
 
 );
 
-class RegisterView {
-  static var name;
-}
+
 
 
 
